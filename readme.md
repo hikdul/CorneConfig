@@ -4,13 +4,13 @@ esta es mi configuracion para usar mi teclado corne. Uso como base el layout de 
 
 ## layout y capas 
 
-capa principal
+capa principal (todas las teclas en blanco corresponden a Dvorak)
 ![layout principal](/documents/cape0.png)
 
-capa 1 => simbolos y numeros
+capa 1 => simbolos y numeros (las teclas vacias no las uso)
 ![simbolos y numeros](/documents/cape1.png) 
  
-capa 2 => navegacion
+capa 2 => navegacion (las teclas vacias no las uso)
 ![simbolos y numeros](/documents/cape2.png) 
 
 
