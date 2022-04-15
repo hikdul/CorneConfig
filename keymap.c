@@ -21,43 +21,43 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   [0] = LAYOUT_split_3x6_3(
-    //Dvorak
+    //Dvora
   //,-----------------------------------------------------.                    ,-----------------------------------------------------.
      KC_ESC,  KC_SCLN,  KC_COMM,  KC_DOT,    KC_P,    KC_Y,                         KC_F,    KC_G,    KC_C,    KC_R,   KC_L,  KC_BSPC,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
-    CTL_T(KC_TAB), KC_A,KC_O,KC_E,   KC_U,    KC_I,                           KC_D,    KC_H,    KC_T,    KC_N,    KC_S,  KC_RCTL,
+    CTL_T(KC_TAB), KC_A,KC_O,    KC_E,   KC_U,    KC_I,                           KC_D,    KC_H,    KC_T,    KC_N,    KC_S,  KC_RCTL,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
       KC_LSFT,KC_QUOT, KC_Q,    KC_J,    KC_K,    KC_X,                         KC_B,    KC_M,    KC_W,    KC_V,    KC_Z, KC_RSFT,
   //|--------+--------+--------+--------+--------+--------+--------|  |--------+--------+--------+--------+--------+--------+--------|
-                                          KC_LGUI,LT(1,KC_ENT),KC_SPC,  KC_SPC ,LT(2,KC_ENT),KC_RALT
+                                        KC_LALT,LT(1,KC_ENT),KC_TAB,  KC_SPC ,LT(2,KC_ENT),KC_LGUI
                                       //`--------------------------'  `--------------------------'
 
   ),
-// Simbolos - Numeros
+// Simbolos - Num
   [1] = LAYOUT_split_3x6_3(
-  //,-----------------------------------------------------.                    ,-----------------------------------------------------.
-       KC_ESC, KC_1,    KC_SLSH,    KC_3,    KC_4,  KC_EQL,                  KC_PSLS,    KC_1,    KC_2,    KC_3,    KC_0, KC_BSPC,
+  //,-----------------------------------------------------.                    ---------------------------------------------------.
+      KC_ESC, KC_1,    KC_SLSH, KC_QUOT,  KC_GRV,  KC_EQL,                      KC_PSLS,    KC_1,    KC_2,    KC_3, KC_PMNS, KC_BSPC,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
-    CTL_T(KC_TAB),KC_NUBS,KC_NUHS,KC_LBRC,KC_RBRC, KC_SCLN,                  KC_PMNS,   KC_4,     KC_5,    KC_6, KC_RCTL,KC_RCTL,
+    CTL_T(KC_TAB),KC_NUBS,KC_NUHS,KC_LBRC,KC_RBRC, KC_SCLN,                     KC_PMNS,   KC_4,     KC_5,    KC_6, KC_PSLS,KC_RCTL,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
       KC_LSFT, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, KC_BSLS,                      XXXXXXX,   KC_7,     KC_8,    KC_9,   KC_0, KC_RSFT,
   //|--------+--------+--------+--------+--------+--------+--------|  |--------+--------+--------+--------+--------+--------+--------|
-                                          KC_LGUI, MO(3),  KC_SPC,     KC_SPC ,LT(3),KC_ENT), KC_RALT
+                                         KC_LALT, MO(3),  KC_TAB,     KC_SPC ,LT(3,KC_ENT), KC_LGUI
                                       //`--------------------------'  `--------------------------'
-  ),
+      ),
 // Sonido - navegacion
   [2] = LAYOUT_split_3x6_3(
   //,-----------------------------------------------------.                    ,-----------------------------------------------------.
-     KC_ESC, KC_CUT, KC_COPY,KC_KB_VOLUME_UP, KC_PASTE, XXXXXXX,                        KC_DEL, KC_HOME, KC_UP, KC_END,KC_DEL, KC_BSPC,,
+      KC_ESC,  XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,                        KC_DEL, KC_HOME,  KC_UP, KC_END,KC_DEL, KC_BSPC,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
-    CTL_T(KC_TAB), XXXXXXX, KC_WWW_REFRESH, KC_KB_VOLUME_DOWN,XXXXXXX,XXXXXXX,  XXXXXXX,KC_LEFT, KC_DOWN, KC_RIGHT, XXXXXXX, KC_RCTL,
+      CTL_T(KC_TAB), XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,                XXXXXXX, KC_LEFT, KC_DOWN,KC_RIGHT, XXXXXXX, KC_RCTL,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
-      KC_LSFT, XXXXXXX,KC_MEDIA_REWIND, XXXXXXX, KC_MEDIA_FAST_FORWARD, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,KC_RSFT,
+      KC_LSFT, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,                      XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, KC_RSFT,
   //|--------+--------+--------+--------+--------+--------+--------|  |--------+--------+--------+--------+--------+--------+--------|
-                                          KC_LGUI, _______,  KC_SPC,     KC_SPC ,LT(3,KC_ENT), KC_RALT
+                                          KC_LALT, _______,  KC_TAB,     KC_ENT,   MO(3), KC_LGUI
                                       //`--------------------------'  `--------------------------'
   ),
-
+// npi ya venia asi
   [3] = LAYOUT_split_3x6_3(
   //,-----------------------------------------------------.                    ,-----------------------------------------------------.
         RESET, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,                      XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX,
@@ -69,6 +69,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
                                           KC_LGUI, _______,  KC_SPC,     KC_ENT, _______, KC_RALT
                                       //`--------------------------'  `--------------------------'
   )
+ 
 };
 
 #ifdef OLED_ENABLE
@@ -91,16 +92,16 @@ void oled_render_layer_state(void) {
             oled_write_ln_P(PSTR("Dvorak"), false);
             break;
         case L_LOWER:
-            oled_write_ln_P(PSTR("Simbolos || Numeros"), false);
+            oled_write_ln_P(PSTR("Numbers"), false);
             break;
         case L_RAISE:
-            oled_write_ln_P(PSTR("Sonido || Navegacion"), false);
+            oled_write_ln_P(PSTR("Navigate"), false);
             break;
         case L_ADJUST:
         case L_ADJUST|L_LOWER:
         case L_ADJUST|L_RAISE:
         case L_ADJUST|L_LOWER|L_RAISE:
-            oled_write_ln_P(PSTR("Fincional || Empty"), false);
+            oled_write_ln_P(PSTR("Empty"), false);
             break;
     }
 }
