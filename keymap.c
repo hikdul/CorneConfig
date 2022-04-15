@@ -36,9 +36,9 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 // Simbolos - Num
   [1] = LAYOUT_split_3x6_3(
   //,-----------------------------------------------------.                    ---------------------------------------------------.
-      KC_ESC, KC_1,    KC_SLSH, KC_QUOT,  KC_GRV,  KC_EQL,                      KC_PSLS,    KC_1,    KC_2,    KC_3, KC_PMNS, KC_BSPC,
+      KC_ESC, KC_1,    KC_SLSH, KC_QUOT,  KC_GRV,  KC_EQL,                      KC_PPLS,    KC_1,    KC_2,    KC_3, KC_PMNS, KC_BSPC,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
-    CTL_T(KC_TAB),KC_NUBS,KC_NUHS,KC_LBRC,KC_RBRC, KC_SCLN,                     KC_PMNS,   KC_4,     KC_5,    KC_6, KC_PSLS,KC_RCTL,
+    CTL_T(KC_TAB),KC_NUBS,KC_NUHS,KC_LBRC,KC_RBRC, KC_SCLN,                     KC_PAST,   KC_4,     KC_5,    KC_6, KC_PSLS,KC_RCTL,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
       KC_LSFT, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, KC_BSLS,                      XXXXXXX,   KC_7,     KC_8,    KC_9,   KC_0, KC_RSFT,
   //|--------+--------+--------+--------+--------+--------+--------|  |--------+--------+--------+--------+--------+--------+--------|
