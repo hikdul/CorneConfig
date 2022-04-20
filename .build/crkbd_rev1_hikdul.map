@@ -41,27 +41,27 @@ c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_udivmodsi4.o)
 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_umulhisi3.o)
                               c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_muluhisi3.o) (__umulhisi3)
 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_udivmodqi4.o)
-                              C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o (__udivmodqi4)
+                              C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o (__udivmodqi4)
 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_divmodqi4.o)
-                              C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o (__divmodqi4)
+                              C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o (__divmodqi4)
 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_divmodhi4.o)
-                              C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o (__divmodhi4)
+                              C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o (__divmodhi4)
 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_tablejump2.o)
-                              C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o (__tablejump2__)
+                              C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o (__tablejump2__)
 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_clear_bss.o)
-                              C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o (__do_clear_bss)
+                              C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o (__do_clear_bss)
 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_mulhisi3.o)
-                              C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o (__mulhisi3)
+                              C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o (__mulhisi3)
 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_usmulhisi3.o)
                               c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_mulhisi3.o) (__usmulhisi3_tail)
 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(memchr.o)
-                              C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o (memchr)
+                              C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o (memchr)
 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(memcmp.o)
-                              C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o (memcmp)
+                              C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o (memcmp)
 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
-                              C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o (memcpy)
+                              C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o (memcpy)
 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(snprintf.o)
-                              C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o (snprintf)
+                              C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o (snprintf)
 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
                               c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(snprintf.o) (vfprintf)
 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
@@ -109,12 +109,12 @@ Discarded input sections
 
  .data          0x0000000000000000        0x0 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
  .bss           0x0000000000000000        0x0 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
- .trampolines   0x0000000000000000        0x0 C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
- .comment       0x0000000000000000      0x492 C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
- .text          0x0000000000000000        0x0 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
- .data          0x0000000000000000        0x0 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
- .bss           0x0000000000000000        0x0 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
- .text.led_set  0x0000000000000000        0x2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+ .trampolines   0x0000000000000000        0x0 C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+ .comment       0x0000000000000000      0x492 C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+ .text          0x0000000000000000        0x0 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+ .data          0x0000000000000000        0x0 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+ .bss           0x0000000000000000        0x0 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+ .text.led_set  0x0000000000000000        0x2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text          0x0000000000000000        0x0 .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
  .data          0x0000000000000000        0x0 .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
  .bss           0x0000000000000000        0x0 .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
@@ -465,8 +465,8 @@ Linker script and memory map
 Address of section .data set to 0x800100
 LOAD c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
 LOAD .build/obj_crkbd_rev1_hikdul/keyboards/crkbd/crkbd.o
-LOAD C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-LOAD C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+LOAD C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+LOAD C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 LOAD .build/obj_crkbd_rev1_hikdul/keyboards/crkbd/rev1/rev1.o
 LOAD .build/obj_crkbd_rev1_hikdul/keyboards/crkbd/keymaps/hikdul/keymap.o
 LOAD .build/obj_crkbd_rev1_hikdul/quantum/quantum.o
@@ -657,67 +657,67 @@ END GROUP
  *libc.a:*(.progmem.data)
  *(.progmem.*)
  .progmem.data.keymaps
-                0x00000000000000ac      0x180 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000000ac      0x180 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.display_setup2.2120
-                0x000000000000022c        0xd C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000022c        0xd C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.display_flipped.2119
-                0x0000000000000239        0x3 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000239        0x3 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.display_normal.2118
-                0x000000000000023c        0x3 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000023c        0x3 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.display_setup1.2117
-                0x000000000000023f        0xd C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000023f        0xd C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.RGBLED_TWINKLE_INTERVALS
-                0x000000000000024c        0x3 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000024c        0x3 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.RGBLED_RGBTEST_INTERVALS
-                0x000000000000024f        0x2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000024f        0x2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.RGBLED_KNIGHT_INTERVALS
-                0x0000000000000251        0x3 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000251        0x3 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.RGBLED_SNAKE_INTERVALS
-                0x0000000000000254        0x3 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000254        0x3 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.RGBLED_RAINBOW_SWIRL_INTERVALS
-                0x0000000000000257        0x3 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000257        0x3 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.RGBLED_RAINBOW_MOOD_INTERVALS
-                0x000000000000025a        0x3 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000025a        0x3 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.RGBLED_BREATHING_INTERVALS
-                0x000000000000025d        0x4 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000025d        0x4 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.__c.6710
-                0x0000000000000261        0x6 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000261        0x6 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.__c.6704
-                0x0000000000000267        0x9 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000267        0x9 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.__c.6701
-                0x0000000000000270        0x8 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000270        0x8 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.__c.6697
-                0x0000000000000278        0x7 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000278        0x7 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.__c.6694
-                0x000000000000027f        0x8 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000027f        0x8 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.crkbd_logo.6729
-                0x0000000000000287       0x40 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000287       0x40 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.CIE1931_CURVE
-                0x00000000000002c7      0x100 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000002c7      0x100 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.RGBLED_GRADIENT_RANGES
-                0x00000000000003c7        0x5 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000003c7        0x5 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.rgblight_effect_breathe_table
-                0x00000000000003cc      0x100 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000003cc      0x100 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.display_on.2289
-                0x00000000000004cc        0x2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000004cc        0x2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.display_off.2293
-                0x00000000000004ce        0x2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000004ce        0x2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.SharedReport
-                0x00000000000004d0       0xb6 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000004d0       0xb6 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.KeyboardReport
-                0x0000000000000586       0x40 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000586       0x40 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.ConfigurationDescriptor
-                0x00000000000005c6       0x3b C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000005c6       0x3b C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.DeviceDescriptor
-                0x0000000000000601       0x12 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000601       0x12 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.ProductString
-                0x0000000000000613        0xe C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000613        0xe C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.ManufacturerString
-                0x0000000000000621       0x12 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000621       0x12 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.LanguageString
-                0x0000000000000633        0x4 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000633        0x4 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .progmem.data.font
-                0x0000000000000637      0x540 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000637      0x540 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                 0x0000000000000b78                . = ALIGN (0x2)
  *fill*         0x0000000000000b77        0x1 
  *(.lowtext)
@@ -801,239 +801,239 @@ END GROUP
                 0x0000000000000bb6                . = ALIGN (0x2)
  *(.text.*)
  .text.crc8.constprop.27
-                0x0000000000000bb6       0x2e C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000bb6       0x2e C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.USB_Disable
-                0x0000000000000be4       0x3e C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000be4       0x3e C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.Endpoint_WaitUntilReady
-                0x0000000000000c22       0x62 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000c22       0x62 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.Endpoint_Write_Stream_LE.constprop.1
-                0x0000000000000c84       0x54 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000c84       0x54 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.Endpoint_ClearStatusStage
-                0x0000000000000cd8       0x3e C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000cd8       0x3e C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.Endpoint_ConfigureEndpoint_Prv
-                0x0000000000000d16       0x64 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000d16       0x64 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.USB_Init
-                0x0000000000000d7a       0xc2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000d7a       0xc2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.Endpoint_Write_Control_Stream_LE
-                0x0000000000000e3c       0xbc C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000e3c       0xbc C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.send_programmable_button
-                0x0000000000000ef8        0x2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000ef8        0x2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.keyboard_leds
-                0x0000000000000efa        0x6 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000efa        0x6 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.bootloader_jump
-                0x0000000000000f00       0x22 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000f00       0x22 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.timer_read32
-                0x0000000000000f22       0x18 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000f22       0x18 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.del_key_from_report
-                0x0000000000000f3a       0x54 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000f3a       0x54 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.add_key_to_report
-                0x0000000000000f8e       0x6a C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000f8e       0x6a C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.host_consumer_send
-                0x0000000000000ff8       0x2c C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000ff8       0x2c C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.host_system_send
-                0x0000000000001024       0x2c C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000001024       0x2c C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.handleKeycodeRGB
-                0x0000000000001050        0xa C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000001050        0xa C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_effect_dummy
-                0x000000000000105a        0x2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000105a        0x2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_timer_init
-                0x000000000000105c        0xe C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000105c        0xe C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_check_config
-                0x000000000000106a       0x2c C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
- .text.sethsv   0x0000000000001096      0x132 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000106a       0x2c C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+ .text.sethsv   0x0000000000001096      0x132 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.mousekey_off
-                0x00000000000011c8       0xf2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000011c8       0xf2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.wheel_unit
-                0x00000000000012ba       0x44 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000012ba       0x44 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.move_unit
-                0x00000000000012fe       0x40 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000012fe       0x40 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.mousekey_on
-                0x000000000000133e       0xb4 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000133e       0xb4 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.sendchar
-                0x00000000000013f2        0x4 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000013f2        0x4 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.__iSeiParam.isra.0.lto_priv.50
-                0x00000000000013f6        0x4 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000013f6        0x4 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.setPinInputHigh_atomic
-                0x00000000000013fa       0x2e C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000013fa       0x2e C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.mod_config
-                0x0000000000001428       0x86 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000001428       0x86 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.action_for_keycode
-                0x00000000000014ae      0x310 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000014ae      0x310 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.clear_oneshot_mods
-                0x00000000000017be        0xc C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000017be        0xc C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.del_mods
-                0x00000000000017ca        0xe C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000017ca        0xe C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.debug_waiting_buffer
-                0x00000000000017d8       0x14 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000017d8       0x14 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.layer_switch_get_layer
-                0x00000000000017ec       0xae C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000017ec       0xae C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.layer_switch_get_action
-                0x000000000000189a       0x36 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000189a       0x36 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.read_source_layers_cache
-                0x00000000000018d0       0x52 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000018d0       0x52 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.update_source_layers_cache
-                0x0000000000001922       0x5c C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000001922       0x5c C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.is_tap_record
-                0x000000000000197e       0x40 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000197e       0x40 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.oled_write_char.constprop.49
-                0x00000000000019be      0x102 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000019be      0x102 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.oled_write_P.constprop.48
-                0x0000000000001ac0       0x1c C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000001ac0       0x1c C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.oled_advance_page
-                0x0000000000001adc       0x64 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000001adc       0x64 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.send_keyboard_report
-                0x0000000000001b40       0xaa C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000001b40       0xaa C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.unregister_mods
-                0x0000000000001bea        0xe C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000001bea        0xe C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.register_mods
-                0x0000000000001bf8       0x14 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000001bf8       0x14 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.send_extra
-                0x0000000000001c0c       0x56 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000001c0c       0x56 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.send_consumer
-                0x0000000000001c62        0x8 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000001c62        0x8 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.send_system
-                0x0000000000001c6a        0x8 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000001c6a        0x8 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.send_mouse
-                0x0000000000001c72       0x42 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000001c72       0x42 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.send_keyboard
-                0x0000000000001cb4       0x80 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000001cb4       0x80 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_set
-                0x0000000000001d34       0x96 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000001d34       0x96 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_effect_alternating
-                0x0000000000001dca       0x7a C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000001dca       0x7a C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_effect_christmas
-                0x0000000000001e44      0x120 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000001e44      0x120 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_effect_knight
-                0x0000000000001f64      0x10e C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000001f64      0x10e C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_effect_snake
-                0x0000000000002072      0x132 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002072      0x132 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_effect_rainbow_swirl
-                0x00000000000021a4       0x7a C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000021a4       0x7a C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_setrgb
-                0x000000000000221e       0x32 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000221e       0x32 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_effect_rgbtest
-                0x0000000000002250       0x7e C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002250       0x7e C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_sethsv_noeeprom_old
-                0x00000000000022ce       0x34 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000022ce       0x34 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_effect_rainbow_mood
-                0x0000000000002302       0x20 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002302       0x20 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_effect_breathing
-                0x0000000000002322       0x28 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002322       0x28 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.transaction_handler_master.isra.2
-                0x000000000000234a       0x88 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000234a       0x88 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.is_keyboard_master
-                0x00000000000023d2       0x46 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000023d2       0x46 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.host_keyboard_leds
-                0x0000000000002418       0x20 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002418       0x20 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.sync_timer_read32
-                0x0000000000002438       0x36 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002438       0x36 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.i2c_transmit_P.constprop.35
-                0x000000000000246e       0x60 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000246e       0x60 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.oled_off
-                0x00000000000024ce       0x36 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
- .text.oled_on  0x0000000000002504       0x50 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000024ce       0x36 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+ .text.oled_on  0x0000000000002504       0x50 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_effect_twinkle
-                0x0000000000002554      0x1bc C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002554      0x1bc C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.eeconfig_update_rgblight
-                0x0000000000002710       0x24 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002710       0x24 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_sethsv_eeprom_helper
-                0x0000000000002734      0x146 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002734      0x146 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_decrease_val
-                0x000000000000287a       0x18 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000287a       0x18 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_increase_val
-                0x0000000000002892       0x18 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002892       0x18 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_decrease_sat
-                0x00000000000028aa       0x18 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000028aa       0x18 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_increase_sat
-                0x00000000000028c2       0x18 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000028c2       0x18 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_decrease_hue
-                0x00000000000028da       0x12 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000028da       0x12 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_increase_hue
-                0x00000000000028ec       0x12 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000028ec       0x12 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_decrease_speed
-                0x00000000000028fe       0x22 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000028fe       0x22 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_increase_speed
-                0x0000000000002920       0x22 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002920       0x22 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.eeconfig_update_rgblight_default
-                0x0000000000002942       0x30 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002942       0x30 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.eeconfig_read_keymap
-                0x0000000000002972       0x1c C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002972       0x1c C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.sync_timer_handlers_master
-                0x000000000000298e       0xb6 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000298e       0xb6 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_handlers_master
-                0x0000000000002a44       0xd4 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002a44       0xd4 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.slave_matrix_handlers_master
-                0x0000000000002b18      0x152 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002b18      0x152 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.eeconfig_init_quantum
-                0x0000000000002c6a       0xd6 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002c6a       0xd6 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.__vector_10
-                0x0000000000002d40      0x1b2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002d40      0x1b2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                 0x0000000000002d40                __vector_10
  .text.__vector_21
-                0x0000000000002ef2       0x48 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002ef2       0x48 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                 0x0000000000002ef2                __vector_21
  .text.timer_elapsed
-                0x0000000000002f3a       0x1e C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002f3a       0x1e C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                 0x0000000000002f3a                timer_elapsed
  .text.timer_read
-                0x0000000000002f58       0x18 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002f58       0x18 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                 0x0000000000002f58                timer_read
  .text.mousekey_send
-                0x0000000000002f70       0x4e C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002f70       0x4e C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.clear_keyboard_but_mods_and_keys
-                0x0000000000002fbe       0x36 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002fbe       0x36 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.layer_state_set
-                0x0000000000002ff4       0x14 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000002ff4       0x14 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.layer_off
-                0x0000000000003008       0x46 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000003008       0x46 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.clear_oneshot_layer_state
-                0x000000000000304e       0x38 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000304e       0x38 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.oneshot_set
-                0x0000000000003086       0x3a C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000003086       0x3a C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.layer_on
-                0x00000000000030c0       0x42 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000030c0       0x42 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.default_layer_state_set
-                0x0000000000003102       0x14 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000003102       0x14 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.clear_keyboard
-                0x0000000000003116       0x2a C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000003116       0x2a C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.USB_Device_ProcessControlRequest
-                0x0000000000003140      0x578 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000003140      0x578 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.__vector_11
-                0x00000000000036b8       0x88 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000036b8       0x88 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                 0x00000000000036b8                __vector_11
  .text.unregister_code
-                0x0000000000003740       0x64 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000003740       0x64 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.register_code
-                0x00000000000037a4       0xec C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000037a4       0xec C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.perform_space_cadet.constprop.36
-                0x0000000000003890       0xce C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000003890       0xce C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.sync_timer_read
-                0x000000000000395e       0x12 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000395e       0x12 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_timer_enable
-                0x0000000000003970       0x36 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000003970       0x36 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_mode_eeprom_helper
-                0x00000000000039a6       0x80 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000039a6       0x80 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_step_reverse
-                0x0000000000003a26       0x12 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000003a26       0x12 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.rgblight_step
-                0x0000000000003a38       0x14 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000003a38       0x14 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.handleKeycodeRGBMode
-                0x0000000000003a4c       0x1c C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000003a4c       0x1c C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.process_record
-                0x0000000000003a68      0xcb8 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000003a68      0xcb8 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.waiting_buffer_scan_tap
-                0x0000000000004720       0xac C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000004720       0xac C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.process_tapping
-                0x00000000000047cc      0x2f2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000000047cc      0x2f2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.action_exec
-                0x0000000000004abe      0x120 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000004abe      0x120 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.matrix_scan
-                0x0000000000004bde      0x3cc C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000004bde      0x3cc C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .text.__vector_12
-                0x0000000000004faa       0x4e C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000004faa       0x4e C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                 0x0000000000004faa                __vector_12
  .text.startup.main
-                0x0000000000004ff8      0xab6 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000004ff8      0xab6 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                 0x0000000000004ff8                main
  .text.i2c_init
                 0x0000000000005aae        0xc .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
@@ -1217,11 +1217,11 @@ END GROUP
  *(.jumptables)
  *(.jumptables*)
  .jumptables.gcc.USB_Device_ProcessControlRequest
-                0x0000000000006908       0x14 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000006908       0x14 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .jumptables.gcc.process_record
-                0x000000000000691c       0x18 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000000691c       0x18 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .jumptables.gcc.main
-                0x0000000000006934       0x1e C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000006934       0x1e C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                 0x0000000000006952                _etext = .
 
 .data           0x0000000000800100      0x10a load address 0x0000000000006952
@@ -1230,50 +1230,50 @@ END GROUP
  .data          0x0000000000800100        0x4 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(rand.o)
  *(.data*)
  .data.split_transaction_table
-                0x0000000000800104       0x20 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800104       0x20 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                 0x0000000000800104                split_transaction_table
  .data.isLeftHand
-                0x0000000000800124        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800124        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .data.lufa_driver
-                0x0000000000800125        0xc C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800125        0xc C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .data.display_start.2166
-                0x0000000000800131        0x7 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800131        0x7 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .data.static_effect_table
-                0x0000000000800138        0xb C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800138        0xb C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .data.increment.3467
-                0x0000000000800143        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800143        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .data.high_bound.3466
-                0x0000000000800144        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800144        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .data.increment.3479
-                0x0000000000800145        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800145        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .data.rgblight_ranges
-                0x0000000000800146        0x5 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800146        0x5 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .data.keyboard_protocol
-                0x000000000080014b        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000080014b        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  *(.gnu.linkonce.d*)
  *(.rodata)
  *(.rodata*)
  .rodata.process_record.str1.1
-                0x000000000080014c       0x11 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000080014c       0x11 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .rodata.code_to_name
-                0x000000000080015d       0x3c C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000080015d       0x3c C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .rodata.CSWTCH.11
-                0x0000000000800199        0x3 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800199        0x3 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .rodata.CSWTCH.12
-                0x000000000080019c       0x2e C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000080019c       0x2e C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .rodata.split_shmem
-                0x00000000008001ca        0x2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008001ca        0x2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                 0x00000000008001ca                split_shmem
  .rodata.row_pins
-                0x00000000008001cc        0x4 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008001cc        0x4 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .rodata.col_pins
-                0x00000000008001d0        0x6 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008001d0        0x6 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .rodata.source_map.2167
-                0x00000000008001d6        0x4 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008001d6        0x4 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .rodata.target_map.2168
-                0x00000000008001da        0x4 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008001da        0x4 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .rodata.mode_base_table
-                0x00000000008001de       0x2b C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008001de       0x2b C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  *(.gnu.linkonce.r*)
                 0x000000000080020a                . = ALIGN (0x2)
  *fill*         0x0000000000800209        0x1 
@@ -1287,160 +1287,160 @@ END GROUP
                 0x000000000080020a                xfunc_out
  *(.bss*)
  .bss.__compound_literal.0
-                0x000000000080020c       0x20 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000080020c       0x20 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.grave_esc_was_shifted
-                0x000000000080022c        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000080022c        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.source_layers_cache
-                0x000000000080022d       0x1e C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000080022d       0x1e C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.tapping_key
-                0x000000000080024b        0x6 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000080024b        0x6 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.waiting_buffer_head
-                0x0000000000800251        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800251        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.waiting_buffer
-                0x0000000000800252       0x30 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800252       0x30 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.waiting_buffer_tail
-                0x0000000000800282        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800282        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.oneshot_layer_data
-                0x0000000000800283        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800283        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.last_report.5376
-                0x0000000000800284       0x20 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800284       0x20 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.weak_mods
-                0x00000000008002a4        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002a4        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.real_mods
-                0x00000000008002a5        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002a5        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.oneshot_mods
-                0x00000000008002a6        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002a6        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.default_layer_state
-                0x00000000008002a7        0x4 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002a7        0x4 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.debouncing_time
-                0x00000000008002ab        0x2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002ab        0x2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.debouncing
-                0x00000000008002ad        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002ad        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.connection_check_timer.6761
-                0x00000000008002ae        0x2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002ae        0x2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.last_sync_timer.6840
-                0x00000000008002b0        0x4 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002b0        0x4 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.last_connected.6808
-                0x00000000008002b4        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002b4        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.usbstate.6746
-                0x00000000008002b5        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002b5        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.last_matrix.6822
-                0x00000000008002b6        0x4 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002b6        0x4 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.last_update.6821
-                0x00000000008002ba        0x4 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002ba        0x4 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.last_update.6833
-                0x00000000008002be        0x4 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002be        0x4 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.shared_memory
-                0x00000000008002c2       0x11 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002c2       0x11 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.last_update.6845
-                0x00000000008002d3        0x4 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002d3        0x4 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.connection_errors
-                0x00000000008002d7        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002d7        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.sync_timer_ms
-                0x00000000008002d8        0x4 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002d8        0x4 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.raw_matrix
-                0x00000000008002dc        0x8 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
- .bss.thatHand  0x00000000008002e4        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
- .bss.thisHand  0x00000000008002e5        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002dc        0x8 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+ .bss.thatHand  0x00000000008002e4        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+ .bss.thisHand  0x00000000008002e5        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.is_rgblight_initialized
-                0x00000000008002e6        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
- .bss.matrix    0x00000000008002e7        0x8 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002e6        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+ .bss.matrix    0x00000000008002e7        0x8 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.debug_config
-                0x00000000008002ef        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002ef        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.matrix_prev.6808
-                0x00000000008002f0        0x8 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002f0        0x8 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.report_last_timer.3416
-                0x00000000008002f8        0x2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002f8        0x2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.tick_flag.3417
-                0x00000000008002fa        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002fa        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.layer_state
-                0x00000000008002fb        0x4 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002fb        0x4 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.keylog_str
-                0x00000000008002ff       0x18 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008002ff       0x18 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.temp_buffer.2169
-                0x0000000000800317       0x20 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800317       0x20 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.oled_rotation
-                0x0000000000800337        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800337        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.oled_scrolling
-                0x0000000000800338        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800338        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.oled_update_timeout
-                0x0000000000800339        0x2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800339        0x2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.last_led_status.4878
-                0x000000000080033b        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000080033b        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.mousekey_wheel_repeat
-                0x000000000080033c        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000080033c        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.mousekey_repeat
-                0x000000000080033d        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000080033d        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.mousekey_accel
-                0x000000000080033e        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000080033e        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.last_timer_w
-                0x000000000080033f        0x2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000080033f        0x2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.last_timer_c
-                0x0000000000800341        0x2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800341        0x2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.mouse_report
-                0x0000000000800343        0x6 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800343        0x6 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.animation_status
-                0x0000000000800349        0x6 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800349        0x6 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.rgblight_status
-                0x000000000080034f        0x3 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
- .bss.pos.3449  0x0000000000800352        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000080034f        0x3 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+ .bss.pos.3449  0x0000000000800352        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.low_bound.3465
-                0x0000000000800353        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800353        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.maxval.3494
-                0x0000000000800354        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
- .bss.led       0x0000000000800355       0xa2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800354        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+ .bss.led       0x0000000000800355       0xa2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.led_twinkle_state
-                0x00000000008003f7      0x10e C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x00000000008003f7      0x10e C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.rgblight_config
-                0x0000000000800505        0x5 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800505        0x5 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.oled_timeout
-                0x000000000080050a        0x4 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000080050a        0x4 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.oled_active
-                0x000000000080050e        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000080050e        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.oled_initialized
-                0x000000000080050f        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000080050f        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.last_system_report
-                0x0000000000800510        0x2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
- .bss.driver    0x0000000000800512        0x2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800510        0x2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+ .bss.driver    0x0000000000800512        0x2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.last_consumer_report
-                0x0000000000800514        0x2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800514        0x2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.wdt_timeout
-                0x0000000000800516        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800516        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.timer_count
-                0x0000000000800517        0x4 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800517        0x4 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.keymap_config
-                0x000000000080051b        0x2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
- .bss.r.6833    0x000000000080051d        0x3 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000080051b        0x2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+ .bss.r.6833    0x000000000080051d        0x3 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.USB_IsInitialized
-                0x0000000000800520        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800520        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.keyboard_idle
-                0x0000000000800521        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800521        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.keyboard_led_state
-                0x0000000000800522        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800522        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.keyboard_report_sent
-                0x0000000000800523       0x20 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800523       0x20 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.USB_Device_CurrentlySelfPowered
-                0x0000000000800543        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800543        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.USB_Device_RemoteWakeupEnabled
-                0x0000000000800544        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800544        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.USB_DeviceState
-                0x0000000000800545        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800545        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.USB_Device_ConfigurationNumber
-                0x0000000000800546        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800546        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.USB_ControlRequest
-                0x0000000000800547        0x8 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
- .bss.sc_timer  0x000000000080054f        0x2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
- .bss.sc_last   0x0000000000800551        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800547        0x8 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+ .bss.sc_timer  0x000000000080054f        0x2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+ .bss.sc_last   0x0000000000800551        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.oled_rotation_width
-                0x0000000000800552        0x1 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800552        0x1 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.oled_dirty
-                0x0000000000800553        0x2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800553        0x2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.oled_buffer
-                0x0000000000800555      0x200 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800555      0x200 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.oled_temp_buffer.2196
-                0x0000000000800755        0x6 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000800755        0x6 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .bss.oled_cursor
-                0x000000000080075b        0x2 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x000000000080075b        0x2 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  *(COMMON)
                 0x000000000080075d                PROVIDE (__bss_end = .)
                 0x0000000000006952                __data_load_start = LOADADDR (.data)
@@ -1489,7 +1489,7 @@ END GROUP
 
 .comment        0x0000000000000000       0x11
  *(.comment)
- .comment       0x0000000000000000       0x12 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+ .comment       0x0000000000000000       0x12 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .comment       0x0000000000000000       0x11 .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
                                          0x12 (size before relaxing)
  .comment       0x0000000000000011       0x12 .build/obj_crkbd_rev1_hikdul/serial.a(serial.o)
@@ -1521,7 +1521,7 @@ END GROUP
 .debug_aranges  0x0000000000000000      0x498
  *(.debug_aranges)
  .debug_aranges
-                0x0000000000000000      0x3b8 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                0x0000000000000000      0x3b8 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .debug_aranges
                 0x00000000000003b8       0x78 .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
  .debug_aranges
@@ -1533,7 +1533,7 @@ END GROUP
 .debug_info     0x0000000000000000    0x31ca7
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x0000000000000000      0x9f4 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
- .debug_info    0x00000000000009f4    0x25404 C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
+ .debug_info    0x00000000000009f4    0x25404 C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
                 0x00000000000009f4                crkbd.c.19ff2c6b
                 0x00000000000013ad                rev1.c.35bc02b4
                 0x0000000000001d66                keymap.c.06bec0b2
@@ -1599,38 +1599,38 @@ END GROUP
                 0x000000000002589a                HostStandardReq.c.89f0ce6d
                 0x00000000000258f0                USBTask.c.df353ba0
                 0x0000000000025ae0                usb_util.c.ecfefec9
- .debug_info    0x0000000000025df8     0xa0e3 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+ .debug_info    0x0000000000025df8     0xa0e3 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .debug_info    0x000000000002fedb      0xaa3 .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
  .debug_info    0x000000000003097e     0x1329 .build/obj_crkbd_rev1_hikdul/serial.a(serial.o)
 
 .debug_abbrev   0x0000000000000000     0x7f33
  *(.debug_abbrev)
  .debug_abbrev  0x0000000000000000      0x96a c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
- .debug_abbrev  0x000000000000096a     0x6b02 C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
- .debug_abbrev  0x000000000000746c      0x3ca C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+ .debug_abbrev  0x000000000000096a     0x6b02 C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+ .debug_abbrev  0x000000000000746c      0x3ca C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .debug_abbrev  0x0000000000007836      0x254 .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
  .debug_abbrev  0x0000000000007a8a      0x4a9 .build/obj_crkbd_rev1_hikdul/serial.a(serial.o)
 
 .debug_line     0x0000000000000000    0x16d33
  *(.debug_line .debug_line.* .debug_line_end)
  .debug_line    0x0000000000000000       0x1d c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
- .debug_line    0x000000000000001d     0x677e C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
- .debug_line    0x000000000000679b     0xe569 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+ .debug_line    0x000000000000001d     0x677e C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+ .debug_line    0x000000000000679b     0xe569 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .debug_line    0x0000000000014d04      0xf0b .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
  .debug_line    0x0000000000015c0f     0x1124 .build/obj_crkbd_rev1_hikdul/serial.a(serial.o)
 
 .debug_frame    0x0000000000000000     0x1068
  *(.debug_frame)
- .debug_frame   0x0000000000000000      0xcc0 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+ .debug_frame   0x0000000000000000      0xcc0 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .debug_frame   0x0000000000000cc0      0x240 .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
  .debug_frame   0x0000000000000f00      0x168 .build/obj_crkbd_rev1_hikdul/serial.a(serial.o)
 
 .debug_str      0x0000000000000000     0x96d3
  *(.debug_str)
  .debug_str     0x0000000000000000      0x371 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
- .debug_str     0x0000000000000371     0x8a1b C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
+ .debug_str     0x0000000000000371     0x8a1b C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
                                       0x29c36 (size before relaxing)
- .debug_str     0x0000000000008d8c      0x126 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+ .debug_str     0x0000000000008d8c      0x126 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                         0x155 (size before relaxing)
  .debug_str     0x0000000000008eb2      0x26b .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
                                         0x2e3 (size before relaxing)
@@ -1639,7 +1639,7 @@ END GROUP
 
 .debug_loc      0x0000000000000000     0xb843
  *(.debug_loc)
- .debug_loc     0x0000000000000000     0x9ab7 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+ .debug_loc     0x0000000000000000     0x9ab7 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .debug_loc     0x0000000000009ab7     0x1279 .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
  .debug_loc     0x000000000000ad30      0xb13 .build/obj_crkbd_rev1_hikdul/serial.a(serial.o)
 
@@ -1663,7 +1663,7 @@ END GROUP
 
 .debug_ranges   0x0000000000000000     0x27c8
  *(.debug_ranges)
- .debug_ranges  0x0000000000000000     0x2428 C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+ .debug_ranges  0x0000000000000000     0x2428 C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
  .debug_ranges  0x0000000000002428      0x120 .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
  .debug_ranges  0x0000000000002548      0x280 .build/obj_crkbd_rev1_hikdul/serial.a(serial.o)
 
@@ -1683,13 +1683,13 @@ CALLBACK_USB_GetDescriptor                        .build/obj_crkbd_rev1_hikdul/l
                                                   .build/obj_crkbd_rev1_hikdul/lib/lufa/LUFA/Drivers/USB/Core/DeviceStandardReq.o (symbol from plugin)
 CIE1931_CURVE                                     .build/obj_crkbd_rev1_hikdul/quantum/led_tables.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/color.o (symbol from plugin)
-ConfigDescriptors.c.6ac44f98                      C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
+ConfigDescriptors.c.6ac44f98                      C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
 ConfigurationDescriptor                           .build/obj_crkbd_rev1_hikdul/usb_descriptor.o (symbol from plugin)
 DeviceDescriptor                                  .build/obj_crkbd_rev1_hikdul/usb_descriptor.o (symbol from plugin)
-DeviceStandardReq.c.6886d779                      C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
-Device_AVR8.c.4c923ea3                            C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+DeviceStandardReq.c.6886d779                      C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+Device_AVR8.c.4c923ea3                            C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 EVENT_USB_Device_ConfigurationChanged             .build/obj_crkbd_rev1_hikdul/lufa.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/lib/lufa/LUFA/Drivers/USB/Core/DeviceStandardReq.o (symbol from plugin)
 EVENT_USB_Device_Connect                          .build/obj_crkbd_rev1_hikdul/lufa.o (symbol from plugin)
@@ -1706,10 +1706,10 @@ EVENT_USB_Device_Suspend                          .build/obj_crkbd_rev1_hikdul/l
                                                   .build/obj_crkbd_rev1_hikdul/lib/lufa/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o (symbol from plugin)
 EVENT_USB_Device_WakeUp                           .build/obj_crkbd_rev1_hikdul/lufa.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/lib/lufa/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o (symbol from plugin)
-EndpointStream_AVR8.c.bd05a01c                    C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
-Endpoint_AVR8.c.815dbb75                          C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+EndpointStream_AVR8.c.bd05a01c                    C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+Endpoint_AVR8.c.815dbb75                          C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 Endpoint_ClearEndpoints                           .build/obj_crkbd_rev1_hikdul/lib/lufa/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o (symbol from plugin)
 Endpoint_ClearStatusStage                         .build/obj_crkbd_rev1_hikdul/lib/lufa/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/lib/lufa/LUFA/Drivers/USB/Core/DeviceStandardReq.o (symbol from plugin)
@@ -1747,16 +1747,16 @@ Endpoint_Write_PStream_LE                         .build/obj_crkbd_rev1_hikdul/l
 Endpoint_Write_Stream_BE                          .build/obj_crkbd_rev1_hikdul/lib/lufa/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o (symbol from plugin)
 Endpoint_Write_Stream_LE                          .build/obj_crkbd_rev1_hikdul/lib/lufa/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/lufa.o (symbol from plugin)
-Events.c.e4a39403                                 C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
-HIDParser.c.f47079c9                              C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-HostStandardReq.c.89f0ce6d                        C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-Host_AVR8.c.7e95681e                              C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
+Events.c.e4a39403                                 C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+HIDParser.c.f47079c9                              C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+HostStandardReq.c.89f0ce6d                        C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+Host_AVR8.c.7e95681e                              C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
 KeyboardReport                                    .build/obj_crkbd_rev1_hikdul/usb_descriptor.o (symbol from plugin)
 LanguageString                                    .build/obj_crkbd_rev1_hikdul/usb_descriptor.o (symbol from plugin)
 ManufacturerString                                .build/obj_crkbd_rev1_hikdul/usb_descriptor.o (symbol from plugin)
-PipeStream_AVR8.c.0716c928                        C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-Pipe_AVR8.c.0fdc2c26                              C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
+PipeStream_AVR8.c.0716c928                        C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+Pipe_AVR8.c.0fdc2c26                              C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
 ProductString                                     .build/obj_crkbd_rev1_hikdul/usb_descriptor.o (symbol from plugin)
 RGBLED_BREATHING_INTERVALS                        .build/obj_crkbd_rev1_hikdul/quantum/rgblight/rgblight.o (symbol from plugin)
 RGBLED_GRADIENT_RANGES                            .build/obj_crkbd_rev1_hikdul/quantum/rgblight/rgblight.o (symbol from plugin)
@@ -1767,12 +1767,12 @@ RGBLED_RGBTEST_INTERVALS                          .build/obj_crkbd_rev1_hikdul/q
 RGBLED_SNAKE_INTERVALS                            .build/obj_crkbd_rev1_hikdul/quantum/rgblight/rgblight.o (symbol from plugin)
 RGBLED_TWINKLE_INTERVALS                          .build/obj_crkbd_rev1_hikdul/quantum/rgblight/rgblight.o (symbol from plugin)
 SharedReport                                      .build/obj_crkbd_rev1_hikdul/usb_descriptor.o (symbol from plugin)
-USBController_AVR8.c.9ec1fc93                     C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
-USBInterrupt_AVR8.c.c9c18d6d                      C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
-USBTask.c.df353ba0                                C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+USBController_AVR8.c.9ec1fc93                     C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+USBInterrupt_AVR8.c.c9c18d6d                      C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+USBTask.c.df353ba0                                C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 USB_ControlRequest                                .build/obj_crkbd_rev1_hikdul/lib/lufa/LUFA/Drivers/USB/Core/USBTask.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/lib/lufa/LUFA/Drivers/USB/Core/DeviceStandardReq.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/lib/lufa/LUFA/Drivers/USB/Core/AVR8/Endpoint_AVR8.o (symbol from plugin)
@@ -1834,15 +1834,15 @@ __data_end                                        c:/qmk_msys/mingw64/bin/../lib
 __data_load_start                                 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_copy_data.o)
 __data_start                                      c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_copy_data.o)
 __divmodhi4                                       c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_divmodhi4.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 __divmodqi4                                       c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_divmodqi4.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 __divmodsi4                                       c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_divmodsi4.o)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(rand.o)
 __do_clear_bss                                    c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_clear_bss.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 __do_copy_data                                    c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_copy_data.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(rand.o)
 __epilogue_restores__                             c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_epilogue.o)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
@@ -1850,13 +1850,13 @@ __epilogue_restores__                             c:/qmk_msys/mingw64/bin/../lib
 __heap_end                                        c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
 __init                                            c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
 __mulhisi3                                        c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_mulhisi3.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 __mulohisi3                                       c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_mulshisi3.o)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(rand.o)
 __mulshisi3                                       c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_mulshisi3.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 __muluhisi3                                       c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_muluhisi3.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_mulshisi3.o)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(rand.o)
 __negsi2                                          c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_negsi2.o)
@@ -1866,35 +1866,35 @@ __prologue_saves__                                c:/qmk_msys/mingw64/bin/../lib
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(snprintf.o)
 __stack                                           c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
 __tablejump2__                                    c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_tablejump2.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 __udivmodhi4                                      c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_udivmodhi4.o)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_divmodhi4.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
 __udivmodqi4                                      c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_udivmodqi4.o)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_divmodqi4.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 __udivmodsi4                                      c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_udivmodsi4.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_divmodsi4.o)
 __ultoa_invert                                    c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
 __umulhisi3                                       c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_umulhisi3.o)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_usmulhisi3.o)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_mulhisi3.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_muluhisi3.o)
 __usmulhisi3                                      c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_usmulhisi3.o)
 __usmulhisi3_tail                                 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_usmulhisi3.o)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_mulhisi3.o)
 __vector_1                                        c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
-__vector_10                                       C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+__vector_10                                       C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/lib/lufa/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o (symbol from plugin)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
-__vector_11                                       C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+__vector_11                                       C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/lib/lufa/LUFA/Drivers/USB/Core/AVR8/USBInterrupt_AVR8.o (symbol from plugin)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
-__vector_12                                       C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+__vector_12                                       C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/platforms/avr/suspend.o (symbol from plugin)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
 __vector_13                                       c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
@@ -1906,7 +1906,7 @@ __vector_18                                       c:/qmk_msys/mingw64/bin/../lib
 __vector_19                                       c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
 __vector_2                                        c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
 __vector_20                                       c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
-__vector_21                                       C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+__vector_21                                       C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/platforms/avr/timer.o (symbol from plugin)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
 __vector_22                                       c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
@@ -1943,21 +1943,21 @@ __vectors                                         c:/qmk_msys/mingw64/bin/../lib
 __xprintf                                         .build/obj_crkbd_rev1_hikdul/platforms/avr/xprintf.o
 _div                                              c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_divmodhi4.o)
 _exit                                             c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_exit.o)
-action.c.7e89bd8f                                 C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+action.c.7e89bd8f                                 C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 action_exec                                       .build/obj_crkbd_rev1_hikdul/quantum/action.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/keyboard.o (symbol from plugin)
 action_for_key                                    .build/obj_crkbd_rev1_hikdul/quantum/keymap_common.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/action_layer.o (symbol from plugin)
 action_for_keycode                                .build/obj_crkbd_rev1_hikdul/quantum/keymap_common.o (symbol from plugin)
-action_layer.c.a64e84ee                           C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
-action_tapping.c.05098600                         C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+action_layer.c.a64e84ee                           C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+action_tapping.c.05098600                         C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 action_tapping_process                            .build/obj_crkbd_rev1_hikdul/quantum/action_tapping.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/action.o (symbol from plugin)
-action_util.c.3ef280b9                            C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+action_util.c.3ef280b9                            C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 add_key                                           .build/obj_crkbd_rev1_hikdul/quantum/action_util.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/process_keycode/process_grave_esc.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/action.o (symbol from plugin)
@@ -1988,17 +1988,17 @@ bitpop32                                          .build/obj_crkbd_rev1_hikdul/q
 bitrev                                            .build/obj_crkbd_rev1_hikdul/quantum/bitwise.o (symbol from plugin)
 bitrev16                                          .build/obj_crkbd_rev1_hikdul/quantum/bitwise.o (symbol from plugin)
 bitrev32                                          .build/obj_crkbd_rev1_hikdul/quantum/bitwise.o (symbol from plugin)
-bitwise.c.589fe74b                                C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
+bitwise.c.589fe74b                                C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
 bootloader_jump                                   .build/obj_crkbd_rev1_hikdul/platforms/avr/bootloaders/caterina.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/bootmagic/bootmagic_lite.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/quantum.o (symbol from plugin)
 bootmagic                                         .build/obj_crkbd_rev1_hikdul/quantum/bootmagic/bootmagic_lite.o (symbol from plugin)
 bootmagic_lite                                    .build/obj_crkbd_rev1_hikdul/quantum/bootmagic/bootmagic_lite.o (symbol from plugin)
-bootmagic_lite.c.b5c6016b                         C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+bootmagic_lite.c.b5c6016b                         C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 bootmagic_lite_reset_eeprom                       .build/obj_crkbd_rev1_hikdul/quantum/bootmagic/bootmagic_lite.o (symbol from plugin)
-caterina.c.c6d99a66                               C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+caterina.c.c6d99a66                               C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 clear_keyboard                                    .build/obj_crkbd_rev1_hikdul/quantum/action.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/lufa.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/platforms/avr/suspend.o (symbol from plugin)
@@ -2023,15 +2023,15 @@ clear_oneshot_mods                                .build/obj_crkbd_rev1_hikdul/q
 clear_weak_mods                                   .build/obj_crkbd_rev1_hikdul/quantum/action_util.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/action.o (symbol from plugin)
 code_to_name                                      .build/obj_crkbd_rev1_hikdul/keyboards/crkbd/keymaps/hikdul/keymap.o (symbol from plugin)
-color.c.3e920ab9                                  C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
-crc.c.b564fc77                                    C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+color.c.3e920ab9                                  C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+crc.c.b564fc77                                    C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 crc8                                              .build/obj_crkbd_rev1_hikdul/crc.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/split_common/transactions.o (symbol from plugin)
 crc_init                                          .build/obj_crkbd_rev1_hikdul/crc.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/keyboard.o (symbol from plugin)
-crkbd.c.19ff2c6b                                  C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
+crkbd.c.19ff2c6b                                  C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
 crot                                              .build/obj_crkbd_rev1_hikdul/ssd1306_sh1106.o (symbol from plugin)
 debounce                                          .build/obj_crkbd_rev1_hikdul/quantum/debounce/sym_defer_g.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/matrix.o (symbol from plugin)
@@ -2040,8 +2040,8 @@ debounce_free                                     .build/obj_crkbd_rev1_hikdul/q
 debounce_init                                     .build/obj_crkbd_rev1_hikdul/quantum/debounce/sym_defer_g.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/matrix.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/matrix_common.o (symbol from plugin)
-debug.c.921bf70d                                  C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+debug.c.921bf70d                                  C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 debug_action                                      .build/obj_crkbd_rev1_hikdul/quantum/action.o (symbol from plugin)
 debug_config                                      .build/obj_crkbd_rev1_hikdul/quantum/logging/debug.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/bootmagic/magic.o (symbol from plugin)
@@ -2085,8 +2085,8 @@ disable_action_cache                              .build/obj_crkbd_rev1_hikdul/q
                                                   .build/obj_crkbd_rev1_hikdul/quantum/quantum.o (symbol from plugin)
 disable_jtag                                      .build/obj_crkbd_rev1_hikdul/quantum/keyboard.o (symbol from plugin)
 do_code16                                         .build/obj_crkbd_rev1_hikdul/quantum/quantum.o (symbol from plugin)
-eeconfig.c.eeef4645                               C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+eeconfig.c.eeef4645                               C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 eeconfig_debug_rgblight                           .build/obj_crkbd_rev1_hikdul/quantum/rgblight/rgblight.o (symbol from plugin)
 eeconfig_disable                                  .build/obj_crkbd_rev1_hikdul/quantum/eeconfig.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/bootmagic/bootmagic_lite.o (symbol from plugin)
@@ -2135,25 +2135,25 @@ eeprom_read_blraw                                 c:/qmk_msys/mingw64/bin/../lib
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libatmega32u4.a(eerd_word.o)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libatmega32u4.a(eerd_dword.o)
 eeprom_read_byte                                  c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libatmega32u4.a(eerd_byte.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/lib/lufa/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/eeconfig.o (symbol from plugin)
 eeprom_read_dword                                 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libatmega32u4.a(eerd_dword.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/quantum/rgblight/rgblight.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/eeconfig.o (symbol from plugin)
 eeprom_read_float                                 c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libatmega32u4.a(eerd_dword.o)
 eeprom_read_word                                  c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libatmega32u4.a(eerd_word.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/quantum/eeconfig.o (symbol from plugin)
 eeprom_update_byte                                c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libatmega32u4.a(eeupd_byte.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libatmega32u4.a(eeupd_word.o)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libatmega32u4.a(eeupd_dword.o)
                                                   .build/obj_crkbd_rev1_hikdul/lib/lufa/LUFA/Drivers/USB/Core/AVR8/EndpointStream_AVR8.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/eeconfig.o (symbol from plugin)
 eeprom_update_dword                               c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libatmega32u4.a(eeupd_dword.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/quantum/rgblight/rgblight.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/eeconfig.o (symbol from plugin)
 eeprom_update_float                               c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libatmega32u4.a(eeupd_dword.o)
@@ -2161,7 +2161,7 @@ eeprom_update_r18                                 c:/qmk_msys/mingw64/bin/../lib
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libatmega32u4.a(eeupd_word.o)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libatmega32u4.a(eeupd_dword.o)
 eeprom_update_word                                c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libatmega32u4.a(eeupd_word.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/quantum/eeconfig.o (symbol from plugin)
 exit                                              c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/avr5\libgcc.a(_exit.o)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
@@ -2190,13 +2190,13 @@ get_u8_str                                        .build/obj_crkbd_rev1_hikdul/q
 get_usb_descriptor                                .build/obj_crkbd_rev1_hikdul/usb_descriptor.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/lufa.o (symbol from plugin)
 get_weak_mods                                     .build/obj_crkbd_rev1_hikdul/quantum/action_util.o (symbol from plugin)
-gnu_lto_v1                                        C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
+gnu_lto_v1                                        C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
 has_anykey                                        .build/obj_crkbd_rev1_hikdul/protocol/report.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/action_util.o (symbol from plugin)
 has_anymod                                        .build/obj_crkbd_rev1_hikdul/quantum/action_util.o (symbol from plugin)
 has_oneshot_mods_timed_out                        .build/obj_crkbd_rev1_hikdul/quantum/action_util.o (symbol from plugin)
-host.c.a4236100                                   C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+host.c.a4236100                                   C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 host_consumer_send                                .build/obj_crkbd_rev1_hikdul/protocol/host.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/action.o (symbol from plugin)
 host_digitizer_send                               .build/obj_crkbd_rev1_hikdul/protocol/host.o (symbol from plugin)
@@ -2226,7 +2226,7 @@ hsv_to_rgb                                        .build/obj_crkbd_rev1_hikdul/q
 hsv_to_rgb_impl                                   .build/obj_crkbd_rev1_hikdul/quantum/color.o (symbol from plugin)
 hsv_to_rgb_nocie                                  .build/obj_crkbd_rev1_hikdul/quantum/color.o (symbol from plugin)
 i2c_init                                          .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/ssd1306_sh1106.o (symbol from plugin)
 i2c_readReg                                       .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
 i2c_readReg16                                     .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
@@ -2234,19 +2234,19 @@ i2c_read_ack                                      .build/obj_crkbd_rev1_hikdul/i
 i2c_read_nack                                     .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
 i2c_receive                                       .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
 i2c_start                                         .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/ssd1306_sh1106.o (symbol from plugin)
 i2c_stop                                          .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/ssd1306_sh1106.o (symbol from plugin)
 i2c_transmit                                      .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/ssd1306_sh1106.o (symbol from plugin)
 i2c_write                                         .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/ssd1306_sh1106.o (symbol from plugin)
 i2c_writeReg                                      .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/ssd1306_sh1106.o (symbol from plugin)
 i2c_writeReg16                                    .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
 isLeftHand                                        .build/obj_crkbd_rev1_hikdul/quantum/split_common/split_util.o (symbol from plugin)
@@ -2274,8 +2274,8 @@ is_tap_record                                     .build/obj_crkbd_rev1_hikdul/q
                                                   .build/obj_crkbd_rev1_hikdul/quantum/action_tapping.o (symbol from plugin)
 is_transport_connected                            .build/obj_crkbd_rev1_hikdul/quantum/split_common/split_util.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/split_common/transactions.o (symbol from plugin)
-keyboard.c.bf49f934                               C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+keyboard.c.bf49f934                               C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 keyboard_idle                                     .build/obj_crkbd_rev1_hikdul/lufa.o (symbol from plugin)
 keyboard_init                                     .build/obj_crkbd_rev1_hikdul/quantum/keyboard.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/main.o (symbol from plugin)
@@ -2295,13 +2295,13 @@ keyboard_task                                     .build/obj_crkbd_rev1_hikdul/q
                                                   .build/obj_crkbd_rev1_hikdul/quantum/main.o (symbol from plugin)
 keycode_config                                    .build/obj_crkbd_rev1_hikdul/quantum/keycode_config.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/keymap_common.o (symbol from plugin)
-keycode_config.c.8697357b                         C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+keycode_config.c.8697357b                         C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 keylog_str                                        .build/obj_crkbd_rev1_hikdul/keyboards/crkbd/keymaps/hikdul/keymap.o (symbol from plugin)
-keymap.c.06bec0b2                                 C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
-keymap_common.c.a536bba8                          C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+keymap.c.06bec0b2                                 C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+keymap_common.c.a536bba8                          C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 keymap_config                                     .build/obj_crkbd_rev1_hikdul/quantum/bootmagic/magic.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/lufa.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/protocol/report.o (symbol from plugin)
@@ -2360,8 +2360,8 @@ layer_switch_get_layer                            .build/obj_crkbd_rev1_hikdul/q
 layer_xor                                         .build/obj_crkbd_rev1_hikdul/quantum/action_layer.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/action.o (symbol from plugin)
 led                                               .build/obj_crkbd_rev1_hikdul/quantum/rgblight/rgblight.o (symbol from plugin)
-led.c.4187bef9                                    C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+led.c.4187bef9                                    C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 led_init_ports                                    .build/obj_crkbd_rev1_hikdul/quantum/led.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/keyboard.o (symbol from plugin)
 led_set                                           .build/obj_crkbd_rev1_hikdul/quantum/led.o (symbol from plugin)
@@ -2370,33 +2370,33 @@ led_set_kb                                        .build/obj_crkbd_rev1_hikdul/q
 led_set_user                                      .build/obj_crkbd_rev1_hikdul/quantum/led.o (symbol from plugin)
 led_suspend                                       .build/obj_crkbd_rev1_hikdul/quantum/led.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/quantum.o (symbol from plugin)
-led_tables.c.de375073                             C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+led_tables.c.de375073                             C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 led_task                                          .build/obj_crkbd_rev1_hikdul/quantum/led.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/keyboard.o (symbol from plugin)
 led_update_kb                                     .build/obj_crkbd_rev1_hikdul/quantum/led.o (symbol from plugin)
 led_update_user                                   .build/obj_crkbd_rev1_hikdul/quantum/led.o (symbol from plugin)
 led_wakeup                                        .build/obj_crkbd_rev1_hikdul/quantum/led.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/quantum.o (symbol from plugin)
-lufa.c.0b0d0d1c                                   C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+lufa.c.0b0d0d1c                                   C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 lufa_driver                                       .build/obj_crkbd_rev1_hikdul/lufa.o (symbol from plugin)
 magic                                             .build/obj_crkbd_rev1_hikdul/quantum/bootmagic/magic.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/keyboard.o (symbol from plugin)
-magic.c.3d0dbbc2                                  C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
-main                                              C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+magic.c.3d0dbbc2                                  C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+main                                              C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/quantum/main.o (symbol from plugin)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5/crtatmega32u4.o
-main.c.055a784f                                   C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+main.c.055a784f                                   C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 matrix                                            .build/obj_crkbd_rev1_hikdul/quantum/matrix_common.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/matrix.o (symbol from plugin)
-matrix.c.5c3ba65f                                 C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+matrix.c.5c3ba65f                                 C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 matrix_cols                                       .build/obj_crkbd_rev1_hikdul/quantum/matrix_common.o (symbol from plugin)
-matrix_common.c.9ce04d06                          C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+matrix_common.c.9ce04d06                          C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 matrix_get_row                                    .build/obj_crkbd_rev1_hikdul/quantum/matrix_common.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/platforms/suspend.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/bootmagic/bootmagic_lite.o (symbol from plugin)
@@ -2442,13 +2442,13 @@ matrix_setup                                      .build/obj_crkbd_rev1_hikdul/q
 matrix_slave_scan_kb                              .build/obj_crkbd_rev1_hikdul/quantum/matrix_common.o (symbol from plugin)
 matrix_slave_scan_user                            .build/obj_crkbd_rev1_hikdul/quantum/matrix_common.o (symbol from plugin)
 memchr                                            c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(memchr.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 memcmp                                            c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(memcmp.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 memcpy                                            c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(memcpy.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 memcpy_P                                          c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(memcpy_P.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/ssd1306_sh1106.o (symbol from plugin)
 mk_delay                                          .build/obj_crkbd_rev1_hikdul/quantum/mousekey.o (symbol from plugin)
 mk_interval                                       .build/obj_crkbd_rev1_hikdul/quantum/mousekey.o (symbol from plugin)
@@ -2460,8 +2460,8 @@ mk_wheel_max_speed                                .build/obj_crkbd_rev1_hikdul/q
 mk_wheel_time_to_max                              .build/obj_crkbd_rev1_hikdul/quantum/mousekey.o (symbol from plugin)
 mod_config                                        .build/obj_crkbd_rev1_hikdul/quantum/keycode_config.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/keymap_common.o (symbol from plugin)
-mousekey.c.225e99c1                               C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+mousekey.c.225e99c1                               C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 mousekey_clear                                    .build/obj_crkbd_rev1_hikdul/quantum/mousekey.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/action.o (symbol from plugin)
 mousekey_get_report                               .build/obj_crkbd_rev1_hikdul/quantum/mousekey.o (symbol from plugin)
@@ -2549,8 +2549,8 @@ oneshot_toggle                                    .build/obj_crkbd_rev1_hikdul/q
                                                   .build/obj_crkbd_rev1_hikdul/quantum/quantum.o (symbol from plugin)
 peek_matrix                                       .build/obj_crkbd_rev1_hikdul/quantum/matrix_common.o (symbol from plugin)
 perform_space_cadet                               .build/obj_crkbd_rev1_hikdul/quantum/process_keycode/process_space_cadet.o (symbol from plugin)
-platform.c.a352e4ca                               C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+platform.c.a352e4ca                               C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 platform_setup                                    .build/obj_crkbd_rev1_hikdul/platforms/avr/platform.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/main.o (symbol from plugin)
 post_process_record_kb                            .build/obj_crkbd_rev1_hikdul/quantum/quantum.o (symbol from plugin)
@@ -2559,18 +2559,18 @@ post_process_record_user                          .build/obj_crkbd_rev1_hikdul/q
 pre_process_record_quantum                        .build/obj_crkbd_rev1_hikdul/quantum/quantum.o (symbol from plugin)
 print_set_sendchar                                .build/obj_crkbd_rev1_hikdul/platforms/avr/printf.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/keyboard.o (symbol from plugin)
-printf.c.3dadad4f                                 C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+printf.c.3dadad4f                                 C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 process_action                                    .build/obj_crkbd_rev1_hikdul/quantum/action.o (symbol from plugin)
 process_action_kb                                 .build/obj_crkbd_rev1_hikdul/quantum/quantum.o (symbol from plugin)
 process_grave_esc                                 .build/obj_crkbd_rev1_hikdul/quantum/process_keycode/process_grave_esc.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/quantum.o (symbol from plugin)
-process_grave_esc.c.988d0e21                      C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+process_grave_esc.c.988d0e21                      C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 process_magic                                     .build/obj_crkbd_rev1_hikdul/quantum/process_keycode/process_magic.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/quantum.o (symbol from plugin)
-process_magic.c.67c86988                          C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+process_magic.c.67c86988                          C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 process_record                                    .build/obj_crkbd_rev1_hikdul/quantum/action.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/action_tapping.o (symbol from plugin)
 process_record_handler                            .build/obj_crkbd_rev1_hikdul/quantum/action.o (symbol from plugin)
@@ -2582,12 +2582,12 @@ process_record_tap_hint                           .build/obj_crkbd_rev1_hikdul/q
 process_record_user                               .build/obj_crkbd_rev1_hikdul/keyboards/crkbd/keymaps/hikdul/keymap.o (symbol from plugin)
 process_rgb                                       .build/obj_crkbd_rev1_hikdul/quantum/process_keycode/process_rgb.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/quantum.o (symbol from plugin)
-process_rgb.c.1eaa2df2                            C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+process_rgb.c.1eaa2df2                            C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 process_space_cadet                               .build/obj_crkbd_rev1_hikdul/quantum/process_keycode/process_space_cadet.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/quantum.o (symbol from plugin)
-process_space_cadet.c.de0cdc14                    C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+process_space_cadet.c.de0cdc14                    C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 protocol_init                                     .build/obj_crkbd_rev1_hikdul/quantum/main.o (symbol from plugin)
 protocol_post_init                                .build/obj_crkbd_rev1_hikdul/lufa.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/main.o (symbol from plugin)
@@ -2600,12 +2600,12 @@ protocol_pre_task                                 .build/obj_crkbd_rev1_hikdul/l
 protocol_setup                                    .build/obj_crkbd_rev1_hikdul/lufa.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/main.o (symbol from plugin)
 protocol_task                                     .build/obj_crkbd_rev1_hikdul/quantum/main.o (symbol from plugin)
-quantum.c.df64e3d4                                C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+quantum.c.df64e3d4                                C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 quantum_init                                      .build/obj_crkbd_rev1_hikdul/quantum/keyboard.o (symbol from plugin)
 quantum_task                                      .build/obj_crkbd_rev1_hikdul/quantum/keyboard.o (symbol from plugin)
 rand                                              c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(rand.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/quantum/rgblight/rgblight.o (symbol from plugin)
 rand_r                                            c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(rand.o)
 raw_matrix                                        .build/obj_crkbd_rev1_hikdul/quantum/matrix_common.o (symbol from plugin)
@@ -2622,13 +2622,13 @@ register_mods                                     .build/obj_crkbd_rev1_hikdul/q
 register_weak_mods                                .build/obj_crkbd_rev1_hikdul/quantum/action.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/quantum.o (symbol from plugin)
 render_bootmagic_status                           .build/obj_crkbd_rev1_hikdul/keyboards/crkbd/keymaps/hikdul/keymap.o (symbol from plugin)
-report.c.22f4813b                                 C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+report.c.22f4813b                                 C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 reset_keyboard                                    .build/obj_crkbd_rev1_hikdul/quantum/quantum.o (symbol from plugin)
 reset_oneshot_layer                               .build/obj_crkbd_rev1_hikdul/quantum/action_util.o (symbol from plugin)
-rev1.c.35bc02b4                                   C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-rgblight.c.10705a7e                               C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+rev1.c.35bc02b4                                   C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+rgblight.c.10705a7e                               C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 rgblight_call_driver                              .build/obj_crkbd_rev1_hikdul/quantum/rgblight/rgblight.o (symbol from plugin)
 rgblight_check_config                             .build/obj_crkbd_rev1_hikdul/quantum/rgblight/rgblight.o (symbol from plugin)
 rgblight_clear_change_flags                       .build/obj_crkbd_rev1_hikdul/quantum/rgblight/rgblight.o (symbol from plugin)
@@ -2751,16 +2751,16 @@ send_keyboard_report                              .build/obj_crkbd_rev1_hikdul/q
                                                   .build/obj_crkbd_rev1_hikdul/quantum/action.o (symbol from plugin)
 send_nibble                                       .build/obj_crkbd_rev1_hikdul/quantum/send_string.o (symbol from plugin)
 send_string                                       .build/obj_crkbd_rev1_hikdul/quantum/send_string.o (symbol from plugin)
-send_string.c.e98d490f                            C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+send_string.c.e98d490f                            C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 send_string_P                                     .build/obj_crkbd_rev1_hikdul/quantum/send_string.o (symbol from plugin)
 send_string_with_delay                            .build/obj_crkbd_rev1_hikdul/quantum/send_string.o (symbol from plugin)
 send_string_with_delay_P                          .build/obj_crkbd_rev1_hikdul/quantum/send_string.o (symbol from plugin)
 send_word                                         .build/obj_crkbd_rev1_hikdul/quantum/send_string.o (symbol from plugin)
 sendchar                                          .build/obj_crkbd_rev1_hikdul/quantum/logging/sendchar.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/keyboard.o (symbol from plugin)
-sendchar.c.775f3bc6                               C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+sendchar.c.775f3bc6                               C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 serial_write_chunk                                .build/obj_crkbd_rev1_hikdul/serial.a(serial.o)
 set_keylog                                        .build/obj_crkbd_rev1_hikdul/keyboards/crkbd/keymaps/hikdul/keymap.o (symbol from plugin)
 set_mods                                          .build/obj_crkbd_rev1_hikdul/quantum/action_util.o (symbol from plugin)
@@ -2778,15 +2778,15 @@ setrgb                                            .build/obj_crkbd_rev1_hikdul/q
 should_process_keypress                           .build/obj_crkbd_rev1_hikdul/quantum/keyboard.o (symbol from plugin)
 shutdown_user                                     .build/obj_crkbd_rev1_hikdul/quantum/quantum.o (symbol from plugin)
 snprintf                                          c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(snprintf.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 soft_serial_initiator_init                        .build/obj_crkbd_rev1_hikdul/serial.a(serial.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/quantum/split_common/transport.o (symbol from plugin)
 soft_serial_target_init                           .build/obj_crkbd_rev1_hikdul/serial.a(serial.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/quantum/split_common/transport.o (symbol from plugin)
 soft_serial_transaction                           .build/obj_crkbd_rev1_hikdul/serial.a(serial.o)
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/quantum/split_common/transport.o (symbol from plugin)
 source_layers_cache                               .build/obj_crkbd_rev1_hikdul/quantum/action_layer.o (symbol from plugin)
 split_led_state                                   .build/obj_crkbd_rev1_hikdul/protocol/host.o (symbol from plugin)
@@ -2794,19 +2794,19 @@ split_post_init                                   .build/obj_crkbd_rev1_hikdul/q
                                                   .build/obj_crkbd_rev1_hikdul/quantum/keyboard.o (symbol from plugin)
 split_pre_init                                    .build/obj_crkbd_rev1_hikdul/quantum/split_common/split_util.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/keyboard.o (symbol from plugin)
-split_shmem                                       C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+split_shmem                                       C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/quantum/split_common/transport.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/serial.a(serial.o)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/split_common/transactions.o (symbol from plugin)
-split_transaction_table                           C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+split_transaction_table                           C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/quantum/split_common/transactions.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/serial.a(serial.o)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/split_common/transport.o (symbol from plugin)
-split_util.c.19332928                             C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+split_util.c.19332928                             C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 srand                                             c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(rand.o)
-ssd1306_sh1106.c.055aed9e                         C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+ssd1306_sh1106.c.055aed9e                         C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 startup_user                                      .build/obj_crkbd_rev1_hikdul/quantum/quantum.o (symbol from plugin)
 store_or_get_action                               .build/obj_crkbd_rev1_hikdul/quantum/action_layer.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/action.o (symbol from plugin)
@@ -2814,10 +2814,10 @@ strnlen                                           c:/qmk_msys/mingw64/bin/../lib
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
 strnlen_P                                         c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
-suspend.c.1303b62f                                C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
-suspend.c.a33170cf                                C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+suspend.c.1303b62f                                C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+suspend.c.a33170cf                                C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 suspend_power_down                                .build/obj_crkbd_rev1_hikdul/platforms/avr/suspend.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/lufa.o (symbol from plugin)
 suspend_power_down_kb                             .build/obj_crkbd_rev1_hikdul/platforms/suspend.o (symbol from plugin)
@@ -2835,10 +2835,10 @@ suspend_wakeup_init_quantum                       .build/obj_crkbd_rev1_hikdul/q
                                                   .build/obj_crkbd_rev1_hikdul/platforms/avr/suspend.o (symbol from plugin)
 suspend_wakeup_init_user                          .build/obj_crkbd_rev1_hikdul/platforms/suspend.o (symbol from plugin)
 switch_events                                     .build/obj_crkbd_rev1_hikdul/quantum/keyboard.o (symbol from plugin)
-sym_defer_g.c.e6579439                            C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
-sync_timer.c.dc1a68e8                             C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+sym_defer_g.c.e6579439                            C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
+sync_timer.c.dc1a68e8                             C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 sync_timer_elapsed                                .build/obj_crkbd_rev1_hikdul/quantum/sync_timer.o (symbol from plugin)
 sync_timer_elapsed32                              .build/obj_crkbd_rev1_hikdul/quantum/sync_timer.o (symbol from plugin)
 sync_timer_init                                   .build/obj_crkbd_rev1_hikdul/quantum/sync_timer.o (symbol from plugin)
@@ -2860,12 +2860,12 @@ thatHand                                          .build/obj_crkbd_rev1_hikdul/q
                                                   .build/obj_crkbd_rev1_hikdul/quantum/matrix.o (symbol from plugin)
 thisHand                                          .build/obj_crkbd_rev1_hikdul/quantum/matrix_common.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/matrix.o (symbol from plugin)
-timer.c.9c2752d9                                  C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+timer.c.9c2752d9                                  C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 timer_clear                                       .build/obj_crkbd_rev1_hikdul/platforms/avr/timer.o (symbol from plugin)
 timer_count                                       .build/obj_crkbd_rev1_hikdul/platforms/avr/timer.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/platforms/avr/suspend.o (symbol from plugin)
-timer_elapsed                                     C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+timer_elapsed                                     C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/platforms/avr/timer.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/process_keycode/process_space_cadet.o (symbol from plugin)
@@ -2880,7 +2880,7 @@ timer_elapsed32                                   .build/obj_crkbd_rev1_hikdul/p
                                                   .build/obj_crkbd_rev1_hikdul/quantum/keyboard.o (symbol from plugin)
 timer_init                                        .build/obj_crkbd_rev1_hikdul/platforms/avr/timer.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/keyboard.o (symbol from plugin)
-timer_read                                        C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+timer_read                                        C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/platforms/avr/timer.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/i2c_master.a(i2c_master.o)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/process_keycode/process_space_cadet.o (symbol from plugin)
@@ -2896,14 +2896,14 @@ timer_read32                                      .build/obj_crkbd_rev1_hikdul/p
                                                   .build/obj_crkbd_rev1_hikdul/quantum/sync_timer.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/keyboard.o (symbol from plugin)
 tp_buttons                                        .build/obj_crkbd_rev1_hikdul/quantum/action.o (symbol from plugin)
-transactions.c.27fbb957                           C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+transactions.c.27fbb957                           C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 transactions_master                               .build/obj_crkbd_rev1_hikdul/quantum/split_common/transactions.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/split_common/transport.o (symbol from plugin)
 transactions_slave                                .build/obj_crkbd_rev1_hikdul/quantum/split_common/transactions.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/split_common/transport.o (symbol from plugin)
-transport.c.50c91e21                              C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+transport.c.50c91e21                              C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 transport_execute_transaction                     .build/obj_crkbd_rev1_hikdul/quantum/split_common/transport.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/split_common/transactions.o (symbol from plugin)
 transport_master                                  .build/obj_crkbd_rev1_hikdul/quantum/split_common/transport.o (symbol from plugin)
@@ -2933,11 +2933,11 @@ update_tri_layer                                  .build/obj_crkbd_rev1_hikdul/q
 update_tri_layer_state                            .build/obj_crkbd_rev1_hikdul/quantum/quantum.o (symbol from plugin)
 usb_connected_state                               .build/obj_crkbd_rev1_hikdul/protocol/lufa/usb_util.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/protocol/usb_util.o (symbol from plugin)
-usb_descriptor.c.01c35c86                         C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+usb_descriptor.c.01c35c86                         C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 usb_device_state                                  .build/obj_crkbd_rev1_hikdul/protocol/usb_device_state.o (symbol from plugin)
-usb_device_state.c.e619ebaa                       C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+usb_device_state.c.e619ebaa                       C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 usb_device_state_init                             .build/obj_crkbd_rev1_hikdul/protocol/usb_device_state.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/lufa.o (symbol from plugin)
 usb_device_state_set_configuration                .build/obj_crkbd_rev1_hikdul/protocol/usb_device_state.o (symbol from plugin)
@@ -2951,20 +2951,20 @@ usb_device_state_set_suspend                      .build/obj_crkbd_rev1_hikdul/p
 usb_disconnect                                    .build/obj_crkbd_rev1_hikdul/protocol/lufa/usb_util.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/protocol/usb_util.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/split_common/split_util.o (symbol from plugin)
-usb_util.c.230475cb                               C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-usb_util.c.ecfefec9                               C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+usb_util.c.230475cb                               C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+usb_util.c.ecfefec9                               C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 usb_vbus_state                                    .build/obj_crkbd_rev1_hikdul/protocol/lufa/usb_util.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/protocol/usb_util.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/split_common/split_util.o (symbol from plugin)
 vfprintf                                          c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
                                                   c:/qmk_msys/mingw64/bin/../lib/gcc/avr/8.4.0/../../../../avr/lib/avr5\libc.a(snprintf.o)
-ws2812.c.7300b089                                 C:\Users\user\AppData\Local\Temp\ccwujLqhdebugobj
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+ws2812.c.7300b089                                 C:\Users\user\AppData\Local\Temp\ccXmKy7Mdebugobj
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
 ws2812_setleds                                    .build/obj_crkbd_rev1_hikdul/ws2812.o (symbol from plugin)
                                                   .build/obj_crkbd_rev1_hikdul/quantum/rgblight/rgblight.o (symbol from plugin)
 xfunc_out                                         .build/obj_crkbd_rev1_hikdul/platforms/avr/xprintf.o
-                                                  C:\Users\user\AppData\Local\Temp\ccOH6mC8.ltrans0.ltrans.o
+                                                  C:\Users\user\AppData\Local\Temp\ccjnvoyX.ltrans0.ltrans.o
                                                   .build/obj_crkbd_rev1_hikdul/platforms/avr/printf.o (symbol from plugin)
 xitoa                                             .build/obj_crkbd_rev1_hikdul/platforms/avr/xprintf.o
 xputc                                             .build/obj_crkbd_rev1_hikdul/platforms/avr/xprintf.o
