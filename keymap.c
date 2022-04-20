@@ -27,7 +27,7 @@ KC_ESC,  KC_QUOT,  KC_COMM,  KC_DOT,    KC_P,    KC_Y,                         K
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
 KC_LSFT, KC_A, KC_O,    KC_E,   KC_U,    KC_I,                           KC_D,    KC_H,    KC_T,    KC_N,    KC_S , KC_RSFT,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
-     CTL_T(KC_DEL), KC_SCLN, KC_Q, KC_J,  KC_K,    KC_X,                         KC_B,    KC_M,    KC_W,    KC_V,    KC_Z, RCTL(KC_DEL),
+     CTL_T(KC_DEL), KC_SCLN, KC_Q, KC_J,  KC_K,    KC_X,                         KC_B,    KC_M,    KC_W,    KC_V,    KC_Z, CTL_T(KC_DEL),
   //|--------+--------+--------+--------+--------+--------+--------|  |--------+--------+--------+--------+--------+--------+--------|
                                       LAG(KC_DEL),LT(1,KC_ENT),KC_TAB,  KC_SPC ,LT(2,KC_ENT),KC_LGUI
                                       //`--------------------------'  `--------------------------'
@@ -40,7 +40,7 @@ KC_LSFT, KC_A, KC_O,    KC_E,   KC_U,    KC_I,                           KC_D,  
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
    KC_LSFT, KC_MINS, KC_EQL,KC_LBRC,   KC_RBRC, KC_AT,                       KC_PAST,   KC_4,     KC_5,    KC_6, KC_PSLS, KC_RSFT,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
-      LCTL(KC_DEL), KC_SCLN, KC_HASH, KC_LPRN,  KC_RPRN, KC_EXLM,               KC_GRV,   KC_7,     KC_8,    KC_9,   KC_0, RCTL(KC_DEL),
+      CTL_T(KC_DEL), KC_SCLN, KC_HASH, KC_LPRN,  KC_RPRN, KC_EXLM,               KC_GRV,   KC_7,     KC_8,    KC_9,   KC_0, CTL_T(KC_DEL),
   //|--------+--------+--------+--------+--------+--------+--------|  |--------+--------+--------+--------+--------+--------+--------|
                                         LAG(KC_DEL), LT(3,KC_ENT),KC_TAB, KC_SPC ,LT(3,KC_ENT), KC_LGUI
                                       //`--------------------------'  `--------------------------'
@@ -52,7 +52,7 @@ KC_LSFT, KC_A, KC_O,    KC_E,   KC_U,    KC_I,                           KC_D,  
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
       KC_LSFT, KC_F4,     KC_F5,  KC_F6, KC_F11, XXXXXXX,                        XXXXXXX, KC_LEFT, KC_DOWN,KC_RIGHT, XXXXXXX,  KC_RSFT,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
-    LCTL(KC_DEL), KC_F7 ,KC_F8,  KC_F9, KC_F12, XXXXXXX,                       XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, RCTL(KC_DEL),
+    CTL_T(KC_DEL), KC_F7 ,KC_F8,  KC_F9, KC_F12, XXXXXXX,                       XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, XXXXXXX, CTL_T(KC_DEL),
   //|--------+--------+--------+--------+--------+--------+--------|  |--------+--------+--------+--------+--------+--------+--------|
                                           LAG(KC_DEL), MO(3),KC_TAB,   KC_ENT, MO(3), KC_LGUI
                                       //`--------------------------'  `--------------------------'
@@ -64,7 +64,7 @@ KC_LSFT, KC_A, KC_O,    KC_E,   KC_U,    KC_I,                           KC_D,  
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
     KC_LSFT,XXXXXXX, RGB_TOG, RGB_HUI, RGB_SAI, RGB_VAI,                        XXXXXXX, KC_F4,    KC_F5,  KC_F6, KC_F11,  KC_RSFT,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
-    LCTL(KC_DEL), XXXXXXX, RGB_MOD, RGB_HUD, RGB_SAD, RGB_VAD,                 XXXXXXX, KC_F7 ,    KC_F8,  KC_F9, KC_F12, RCTL(KC_DEL),
+    CTL_T(KC_DEL), XXXXXXX, RGB_MOD, RGB_HUD, RGB_SAD, RGB_VAD,                 XXXXXXX, KC_F7 ,    KC_F8,  KC_F9, KC_F12, CTL_T(KC_DEL),
   //|--------+--------+--------+--------+--------+--------+--------|  |--------+--------+--------+--------+--------+--------+--------|
                                           KC_LGUI, _______,  KC_SPC,     KC_ENT, _______, KC_RALT
                                       //`--------------------------'  `--------------------------'
