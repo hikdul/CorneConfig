@@ -1,0 +1,1 @@
+-Wl,--gc-sections -Wl,-Map=.build/crkbd_rev1_hikdul.map,--cref     -lm 
