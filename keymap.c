@@ -34,15 +34,14 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
                                       //`--------------------------'  `--------------------------'
 
   ),
-
 // Simbolos - Num
-  [1] = LAYOUT_split_3x6_3(
+  [1] = LAYOUT_split_3x6_3(     
   //,-----------------------------------------------------.                    ---------------------------------------------------.
-      KC_ESC, KC_QUOT,  KC_PERC, KC_AMPR, KC_BSLS, KC_SLSH,                     KC_PPLS,    KC_1,    KC_2,    KC_3, KC_PMNS, KC_BSPC,
+      KC_ESC, KC_Q,  KC_PERC, KC_AMPR, KC_BSLS, KC_LBRC,                          KC_PPLS,    KC_1,    KC_2,    KC_3, KC_PMNS, KC_BSPC,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
-      KC_LSFT, KC_MINS, KC_EQL,KC_LBRC,   KC_RBRC, KC_AT,                       KC_PAST,   KC_4,     KC_5,    KC_6, KC_PSLS, KC_RSFT,
+      KC_LSFT, KC_QUOT,KC_RBRC,KC_MINUS,KC_EQUAL , KC_AT,                       KC_PAST,   KC_4,     KC_5,    KC_6, KC_PSLS, KC_RSFT,
   //|--------+--------+--------+--------+--------+--------|                    |--------+--------+--------+--------+--------+--------|
-      CTL_T(KC_DEL), KC_SCLN, KC_HASH, KC_LPRN,  KC_RPRN, KC_EXLM,               KC_GRV,   KC_7,     KC_8,    KC_9,   KC_0, CTL_T(KC_DEL),
+CTL_T(KC_DEL), KC_Z, KC_HASH, KC_LPRN,  KC_RPRN, KC_EXLM,                       KC_GRV,   KC_7,     KC_8,    KC_9,   KC_0, CTL_T(KC_DEL),
   //|--------+--------+--------+--------+--------+--------+--------|  |--------+--------+--------+--------+--------+--------+--------|
                                         KC_LEFT_ALT, LT(3,KC_ENT),KC_TAB, KC_SPC ,LT(3,KC_ENT), KC_LGUI
                                       //`--------------------------'  `--------------------------'
